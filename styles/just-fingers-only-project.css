@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(24, 24, 24);
+    font-family: Arial;
+    margin-bottom: 500px;
+}
+p,div{
+    color: white;
+}
+.title-info{
+    font-size: 30px;
+    margin: 50px 30px;
+    color: rgb(97, 243, 170);
+}
+.choice-paragraph{
+    font-size: 18px;
+    margin: 35px 6px;
+}
+
+.choice-emoji{   
+    width: 50px;   
+}
+.count-emoji{
+    width: 40px;
+}
+
+.choice-button{
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-right: 10px;
+    background-color: rgb(206, 164, 109);
+    border-radius: 20px;
+}
+.move-button{
+    background-color: rgb(24, 24, 24);;
+    border-color: rgb(133, 193, 219);
+    border-style: solid;
+    border-radius: 65px;
+    border-width: 3px;
+    width: 120px;
+    height: 120px;
+    margin-right: 10px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.move-icon{
+    width: 36px;
+}
+.choice-info{
+    display: inline-block;
+    font-size: 22px;
+    color: blueviolet;
+}
+.begin{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: rgb(178, 201, 87);
+}
